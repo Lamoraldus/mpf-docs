@@ -30,8 +30,8 @@ playfields:
 Ball search will run in multiple phases with increasing intensity (phase
 1 to 3) and give up afterwards. To change the timeout before ball search
 starts when no ball was seen by MPF, change
-[ball-search-timeout](#). Similarly,
-[ball-search-interval](#) determines the delay between coil
+[ball_search_timeout](#). Similarly,
+[ball_search_interval](#) determines the delay between coil
 fires during search. You can further configure ball search per
 [playfield](../../config/playfields.md).
 
